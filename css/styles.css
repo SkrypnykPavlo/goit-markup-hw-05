@@ -594,11 +594,11 @@ img {
 .card-portfolio:focus .overlay {
   transform: translateY(0);
   opacity: 1;
-}
-.card-portfolio:focus .overlay {
+} 
+/* .card-portfolio:focus .overlay {
   transform: translateY(0);
   opacity: 1;   
-}
+} */
 .overlay-description {
   color: var(--background-heder-color);
   font-weight: 400;
